@@ -24,6 +24,14 @@
      - Commercial
      - Documentaries
      - Music Video
+         * Comedy
+         * Emotional
+         * Ironic
+         * Touristic
+         * Still
+         * Fashion
+         * Narrative
+         * Graphic
 
 ## Stages
 
@@ -53,13 +61,16 @@
 
 * Classic: Need -> Solution
 * Narrative
-   * Comedy
-   * Emotional
-   * Ironic
-   * Touristic
-   * Still
-   * Fashion
-   * Narrative
-   * Graphic
  
 `choose the perfect music before`
+
+### Kuleshov effect
+
+Russian film maker and artist on 90' that discovered this kind of effect.
+
+Is combined 2 images, connect them. Association of different images, depending the context, it can be interpretative.
+
+`Hitchcock`
+
+
+

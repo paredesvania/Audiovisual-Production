@@ -58,7 +58,7 @@ Always keel the filming in an imaginary axis or eye line.
 If we shot an scene and we want change the distance make sure the camera doesn't move more than 30° around the subject to go closer or further, not just jump.
 
 ![30-degree-rule](./images/30degrees.jpg)
-![30-degree-rule](./images/30degrees1.png)
+![30-degree-rule](./images/30degrees2.png)
 
 ## Camera movement
 
